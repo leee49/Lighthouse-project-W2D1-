@@ -35,7 +35,15 @@ section{
   border-radius: 15px;
 }
 .login{
-  background-color:#B5B5B5;
+  background-color:#FFBFFF;
+}
+
+.myprofile{
+  background-color:#B8FF94;
+}
+
+.signup{
+  background-color: #A3C2FF;
 }
 
 
